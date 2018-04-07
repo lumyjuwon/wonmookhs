@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_18dp"
+            android:checked="true"
+            android:title="@string/nav_home"/>
+        <item
+            android:id="@+id/nav_schoolschedule"
+            android:icon="@drawable/ic_today_black_18dp"
+            android:title="@string/nav_schoolschedule"/>
+        <item
+            android:id="@+id/nav_lunch"
+            android:icon="@drawable/ic_restaurant_black_18dp"
+            android:title="@string/nav_lunch" />
+        <item
+            android:id="@+id/nav_push"
+            android:icon="@drawable/ic_email_black_18dp"
+            android:checked="true"
+            android:title="@string/nav_push"/>
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_newsletter"
+            android:icon="@drawable/ic_content_copy_black_18dp"
+            android:title="@string/nav_newsletter" />
+        <item
+            android:id="@+id/nav_mainboard"
+            android:icon="@drawable/ic_content_paste_black_18dp"
+            android:title="@string/nav_mainboard" />
+        <item
+            android:id="@+id/nav_competition"
+            android:icon="@drawable/ic_school_black_18dp"
+            android:title="@string/nav_competition" />
+        <item
+            android:id="@+id/nav_facebookfragment"
+            android:icon="@drawable/ic_location_city_black_18dp"
+            android:title="@string/nav_facebookfragment" />
+    </group>
+
+    <group
+        android:id="@+id/group7"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_survey"
+            android:icon="@drawable/ic_check_black_18dp"
+            android:title="@string/nav_survey" />
+        <item
+            android:id="@+id/nav_musicapplication"
+            android:icon="@drawable/ic_audiotrack_black_18dp"
+            android:title="@string/nav_musicapplication" />
+        <item
+            android:id="@+id/nav_afterschool"
+            android:icon="@drawable/ic_create_black_18dp"
+            android:title="@string/nav_afterschool"/>
+        <item
+            android:id="@+id/nav_schoolsurvey"
+            android:icon="@drawable/ic_border_color_black_18dp"
+            android:title="@string/nav_schoolsurvey" />
+        </group>
+
+    <group
+        android:id="@+id/group4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_promotion1"
+            android:icon="@drawable/ic_group_black_18dp"
+            android:title="@string/nav_promotion1" />
+        <item
+            android:id="@+id/nav_teacherlocal"
+            android:icon="@drawable/ic_map_black_18dp"
+            android:title="@string/nav_teacherlocal" />
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/ic_access_time_black_18dp"
+            android:title="@string/nav_information" />
+    </group>
+    <group
+        android:id="@+id/group5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info_outline_black_18dp"
+            android:title="@string/nav_about" />
+        <item
+            android:id="@+id/nav_developer"
+            android:icon="@drawable/ic_build_black_18dp"
+            android:title="@string/nav_developer" />
+        <item
+            android:id="@+id/nav_kakaotalk"
+            android:icon="@drawable/ic_question_answer_black_18dp"
+            android:title="@string/nav_kakaotalk" />
+    </group>
+
+</menu>

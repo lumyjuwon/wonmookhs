@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="절대로 학교찾기를 누르지 마시고 학교 이름을 정자로    입력하여 설문시작을 눌러주시기 바랍니다                     절대로 새로운 브라우저를 띄우지 마세요" />
+
+    <WebView
+        android:id="@+id/survey"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

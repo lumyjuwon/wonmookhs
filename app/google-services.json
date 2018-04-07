@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "168948725903",
+    "firebase_url": "https://wonmookapp-9af03.firebaseio.com",
+    "project_id": "wonmookapp-9af03",
+    "storage_bucket": "wonmookapp-9af03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168948725903:android:68afb1406ae514c9",
+        "android_client_info": {
+          "package_name": "wonmookapp.hs.kr.wonmookhs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168948725903-0e4lstf704ab6iq18f5pp20qtl450b9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBprR4gmR-P4aPWtL4he1lsWwFBTun90ik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

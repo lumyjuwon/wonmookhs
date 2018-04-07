@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_developersurveyfragmnt"
+            android:icon="@drawable/ic_note_black_18dp"
+            android:title="@string/developer_survey"/>
+        <item
+            android:id="@+id/nav_developerfirebasefragment"
+            android:icon="@drawable/ic_speaker_notes_black_18dp"
+            android:title="@string/developer_firebase"/>
+    </group>
+
+    <group
+        android:id="@+id/group5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_kakaotalk"
+            android:icon="@drawable/ic_question_answer_black_18dp"
+            android:title="@string/nav_kakaotalk" />
+    </group>
+
+</menu>

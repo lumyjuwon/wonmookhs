@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/about_versioninfo">
+        <Preference android:title="@string/about_version" android:key="version" android:summary="2.1" />
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+
+        android:title="@string/about_support">
+        <Preference android:title="@string/about_appsupport" android:summary="@string/about_appsupport_mail">
+            <intent android:action="android.intent.action.SENDTO" android:data="mailto:wonmookapp@gmail.com" />
+        </Preference>
+
+        <Preference
+            android:title="@string/about_mastersupport" android:summary="@string/about_mastersupport_mail">
+            <intent android:action="android.intent.action.SENDTO" android:data="mailto:hastar64@naver.com" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/about_team">
+        <Preference android:title="@string/about_master" android:summary="@string/about_master_name"/>
+        <Preference android:title="@string/about_programmer" android:summary="@string/about_programmer_name"/>
+        <Preference android:title="@string/about_designer" android:summary="@string/about_designer_name"/>
+        <Preference android:title="@string/about_assistant" android:summary="@string/about_assistant_name"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/about_description">
+        <Preference android:title="앱 가이드" android:summary="이나경,임수환"/>
+        <Preference android:title="원묵고등학교" android:summary="박지영,성주원,임수환"/>
+        <Preference android:title="학사일정" android:summary="김상휘,성주원"/>
+        <Preference android:title="급식" android:summary="성주원"/>
+        <Preference android:title="메시지" android:summary="성주원"/>
+        <Preference android:title="가정통신문" android:summary="성주원"/>
+        <Preference android:title="공지사항" android:summary="성주원"/>
+        <Preference android:title="교내대회" android:summary="성주원"/>
+        <Preference android:title="대나무숲" android:summary="성주원,이윤지"/>
+        <Preference android:title="설문조사" android:summary="성주원"/>
+        <Preference android:title="음악방송 신청" android:summary="성주원"/>
+        <Preference android:title="방과후 신청" android:summary="성주원"/>
+        <Preference android:title="학교폭력 실태조사" android:summary="성주원"/>
+        <Preference android:title="동아리" android:summary="김상휘,성주원"/>
+        <Preference android:title="층별안내도" android:summary="성주원,임수환"/>
+        <Preference android:title="시설 운영시간" android:summary="김상휘"/>
+        <Preference android:title="About..." android:summary="김상휘"/>
+        <Preference android:title="운영자센터" android:summary="성주원"/>
+        <Preference android:title="애플리케이션 지원센터" android:summary="성주원"/>
+    </PreferenceCategory>
+</PreferenceScreen>

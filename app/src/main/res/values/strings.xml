@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="sign_in">Sign In</string>
+
+
+    <string name="app_name">원묵고등학교</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">설정</string>
+
+    <string name="nav_home">원묵고등학교</string>
+    <string name="nav_kakaotalk">애플리케이션 지원센터</string>
+    <string name="nav_schoolschedule">학사일정</string>
+    <string name="nav_lunch">급식</string>
+    <string name="nav_mainboard">공지사항</string>
+    <string name="nav_newsletter">가정통신문</string>
+    <string name="nav_competition">교내대회</string>
+    <string name="nav_afterschool">방과후 신청</string>
+    <string name="nav_schoolsurvey">학교폭력 실태조사</string>
+    <string name="nav_teensol">틴솔 상담하기</string>
+    <string name="nav_facebookfragment">대나무숲</string>
+    <string name="nav_promotion1">동아리</string>
+    <string name="nav_promotion2">자율동아리</string>
+    <string name="nav_teacherlocal">층별 안내도</string>
+    <string name="nav_information">시설 운영시간</string>
+    <string name="nav_about">About...</string>
+    <string name="nav_setting">설정</string>
+    <string name="nav_musicapplication">음악방송 신청</string>
+    <string name="nav_etcsurvey">설문조사</string>
+    <string name="nav_push">메시지</string>
+    <string name="nav_survey">설문조사</string>
+    <string name="nav_council">학생회</string>
+    <string name="nav_developer">관리자 센터</string>
+
+    <string name="about_versioninfo">버전 정보</string>
+    <string name="about_version">버전</string>
+    <string name="about_support">지원</string>
+    <string name="about_appsupport">애플리케이션 문의</string>
+    <string name="about_appsupport_mail">wonmookapp@gmail.com</string>
+    <string name="about_mastersupport">디렉터 이메일</string>
+    <string name="about_mastersupport_mail">hastar64@naver.com</string>
+    <string name="about_team">개발팀</string>
+    <string name="about_master">Director</string>
+    <string name="about_master_name">성주원</string>
+    <string name="about_programmer">Programming</string>
+    <string name="about_programmer_name">김상휘 / 성주원 / 임수환</string>
+    <string name="about_assistant">Assistant</string>
+    <string name="about_assistant_name">박진우</string>
+    <string name="about_designer">Design</string>
+    <string name="about_designer_name">박지영 / 이윤지 / 이나경</string>
+    <string name="about_operator">Operator</string>
+    <string name="about_description">애플리케이션 활동</string>
+
+    <string name="developer_survey">설문지 관리</string>
+    <string name="developer_firebase">푸시 관리</string>
+
+</resources>
