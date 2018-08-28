@@ -32,6 +32,7 @@ Firebase의 Realtime Database와 Cloud Message를 이용하여 학교의 중요�
 * 가정통신문 및 문자 메시지로 인한 학교 예산 지출을 줄였음
 * 학생회 및 각종 동아리의 앱 활동을 이용하여 동아리 홍보나 설문조사 신청서 등록 등의 다양한 활동을 더욱 유발할 수 있었음
 * 교내 점심 시간 노래 신청도 원묵고 앱을 통해 받게 됐는데 학생들의 참여뿐만 아니라 학부모님들도 참여를 해주셔서 부모와 자녀 사이가 더욱 돈독해짐
+* 학생 및 학부모님들이 학교에 대한 정보 접근이 더욱 쉬워짐
 
 ## Google PlayStore
 https://play.google.com/store/apps/details?id=wonmookapp.hs.kr.wonmookhs
